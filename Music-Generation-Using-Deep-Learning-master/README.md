@@ -1,6 +1,5 @@
 # Music Generation Using Deep-Learning
-## Check out the blog of this case study at the following link:
-https://medium.com/@gauravsharma2656/music-generation-using-deep-learning-85010fb982e2
+
 ## Real World Problem
 This case-study focuses on generating music automatically using Recurrent Neural Network(RNN). 
 We do not necessarily have to be a music expert in order to generate music. Even a non expert can generate a decent quality music using RNN.
@@ -36,13 +35,3 @@ You need to have installed following softwares and libraries in your machine bef
 * numpy, scipy- number python library
 * pandas - data handling library
 * Keras - Deep Learning Library
-## Authors
-* Gaurav Sharma - Complete work  
-## References
-* https://www.appliedaicourse.com/
-* https://folkrnn.org/
-* https://en.wikipedia.org/wiki/ABC_notation
-* https://abcjs.net/abcjs-editor.html
-* https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
-* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-* https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
